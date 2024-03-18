@@ -238,7 +238,6 @@ $ npm run test
 
 ## 赞助商
 
-访问 [Evrone](https://evrone.com/)网站以获取有关[项目构建](https://evrone.com/cases)的更多信息。
 
 <a href="https://evrone.com/?utm_source=postcss-px-to-viewport">
   <img src="https://user-images.githubusercontent.com/417688/34437029-dbfe4ee6-ecab-11e7-9d80-2b274b4149b3.png"

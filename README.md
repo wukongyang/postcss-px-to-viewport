@@ -236,9 +236,6 @@ See also the list of [contributors](https://github.com/evrone/postcss-px-to-view
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Sponsors
-
-Visit [Evrone](https://evrone.com/) website to get more information about the [projects](https://evrone.com/cases) build.
 
 <a href="https://evrone.com/?utm_source=postcss-px-to-viewport">
   <img src="https://user-images.githubusercontent.com/417688/34437029-dbfe4ee6-ecab-11e7-9d80-2b274b4149b3.png"
